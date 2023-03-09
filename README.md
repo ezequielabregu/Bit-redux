@@ -7,7 +7,13 @@ A simple Bit crusher plug-in, implemented in C++ using the JUCE framework
 
 It works in any DAW which accepts VST, VST3 or AU.
 
-## Installation:
+### Video link
+
+https://youtu.be/EK1HnOCXiwI
+
+&nbsp;
+
+### Installation:
 
 1. **JUCE**: You can download JUCE from official website https://juce.com/
 
