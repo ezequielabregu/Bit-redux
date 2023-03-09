@@ -1,0 +1,1 @@
+#juce_add_binary_data(BitReductionData SOURCES "pluginBackground0.png")
